@@ -1,0 +1,9 @@
+The word 'Ana' appears '1' times
+The word 'Maria' appears '1' times
+The word 'are' appears '2' times
+The word 'caise.' appears '1' times
+The word 'capsuni.' appears '1' times
+The word 'gutui' appears '1' times
+The word 'mere,' appears '2' times
+The word 'pere' appears '1' times
+The word 'si' appears '2' times
