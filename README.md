@@ -17,10 +17,15 @@ Sistemele si/sau framework-urile folosite:
 STL
 
 Informații despre mașinile pe care am rulat codul:
+
 -Sistemul de operare:  Windows 11 Home;
+
 -Procesorul (CPU):  AMD Ryzen 7 7735HS with Radeon Graphics           3.20 GHz;
+
 -Memoria RAM:16.0 GB ;
+
 -Spațiul de stocare: SSD 512 GB;
+
 -Compilatorul sau mediul de dezvoltare utilizat: Visual Studio 2022, Online C++ Compiler.
 
 Rezultatele experimentale:
