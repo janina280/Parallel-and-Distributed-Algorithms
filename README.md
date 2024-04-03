@@ -1,8 +1,13 @@
 # Parallel-and-Distributed-Algorithms
+
 PDA / APD (MPI-Message Passing Interface)
+
 Varianta secvențială + date
+
 Topicul:
+
 Procesarea de text (en. Text Processing)
+
 Numărarea frecvenței cuvintelor dintr-un fișier text mare pot fi paralelizate prin procesarea diferitelor părți ale fișierului pe fire sau procesoare separate.
 
 Limbajele de programare utilizate:
