@@ -6,10 +6,10 @@ Procesarea de text (en. Text Processing)
 Numărarea frecvenței cuvintelor dintr-un fișier text mare pot fi paralelizate prin procesarea diferitelor părți ale fișierului pe fire sau procesoare separate.
 
 Limbajele de programare utilizate:
--C++
+C++
 
 Sistemele si/sau framework-urile folosite:
--STL
+STL
 
 Informații despre mașinile pe care am rulat codul:
 -Sistemul de operare:  Windows 11 Home;
