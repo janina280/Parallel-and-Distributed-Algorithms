@@ -1,6 +1,6 @@
-# Parallel-and-Distributed-Algorithms
+# Procesarea de text (en. Text Processing)
 
-PDA / APD (MPI-Message Passing Interface)
+APD (MPI-Message Passing Interface)
 
 Varianta secvențială + date
 
