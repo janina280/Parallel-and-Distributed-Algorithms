@@ -16,7 +16,7 @@ int main()
     map<string, int> wordsFrequency;
     vector<string> words;
 
-    auto start = high_resolution_clock::now(); // Start timing
+    auto start = high_resolution_clock::now(); 
 
     while (fin >> inputWord)
     {
@@ -33,8 +33,8 @@ int main()
         fout << "The word '" << word.first << "' appears '" << word.second << "' times\n";
     }
 
-    auto stop = high_resolution_clock::now(); // Stop timing
-    auto duration = duration_cast<microseconds>(stop - start); // Calculate duration
+    auto stop = high_resolution_clock::now(); 
+    auto duration = duration_cast<microseconds>(stop - start);
 
     fout << "Time taken by function: " << duration.count() << " microseconds" << endl;
 
