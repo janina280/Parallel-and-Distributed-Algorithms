@@ -20,8 +20,12 @@ Informații despre mașinile pe care am rulat codul:
 
 Rezultatele experimentale:
 Input1: Ana are mere, pere si capsuni. Maria are mere, gutui si caise.
-1.https://www.onlinegdb.com/online_c++_compiler# : 40 ms
-2.Visual Studio 2022: 470 ms
+
+1.https://www.onlinegdb.com/online_c++_compiler# : Time taken by function: 40 microseconds
+
+2.Visual Studio 2022: Time taken by function: 470 microseconds
+
+
 Input2:Algoritmii paraleli reprezintă o ramură a informaticii și a teoriei calculului care se ocupă cu dezvoltarea și analiza algoritmilor care pot fi executați simultan pe mai multe procese sau unități de calcul. Acești algoritmi sunt esențiali în contextul sistemelor moderne de calcul paralel și distribuit, precum și în domenii precum învățarea automată, simulările complexe, analiza de date masive și grafica computerizată.
 
 Conceptul de paralelism în calcul se referă la capacitatea de a efectua mai multe operațiuni în același timp, ceea ce poate duce la o creștere semnificativă a performanței și eficienței sistemelor informatice. În timp ce algoritmii secvențiali lucrează într-o manieră liniară, parcurgând pașii unul câte unul, algoritmii paraleli își împart sarcinile în bucăți mai mici care pot fi executate în paralel.
