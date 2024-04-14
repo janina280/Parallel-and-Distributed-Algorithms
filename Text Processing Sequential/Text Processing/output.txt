@@ -134,4 +134,4 @@ The word 'with' appears '10' times
 The word 'wonders' appears '10' times
 The word 'world' appears '10' times
 The word 'world.' appears '10' times
-Time taken by function: 13374 microseconds
+Time taken by function: 13604 microseconds
