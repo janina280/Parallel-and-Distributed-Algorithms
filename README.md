@@ -25,8 +25,6 @@ Counting the frequency of words in a large text file can be parallelized by proc
 
 ## Machine specs
 
-* Sistemul de operare:  Windows 11 Home;
-
 * Processor (CPU):  AMD Ryzen 7 7735HS with Radeon Graphics           3.20 GHz;
 
 * RAM:16.0 GB ;
