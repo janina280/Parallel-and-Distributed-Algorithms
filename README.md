@@ -45,12 +45,12 @@ Counting the frequency of words in a large text file can be parallelized by proc
 
 ## Parallel execution times
 
--10k words: 1076 microseconds
+-10k words: 14950 microseconds
 
--64k words: 1464 microseconds
+-64k words: 14003 microseconds
 
--100k words: 1261 microseconds
+-100k words: 14474 microseconds
 
--500k words: 2674 microseconds
+-500k words: 30764 microseconds
 
--1M words: 10826 microseconds
+-1M words: 58858 microseconds
