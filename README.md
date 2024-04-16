@@ -20,8 +20,7 @@ Counting the frequency of words in a large text file can be parallelized by proc
   
 ## Framework
 
-* STL
-* MS-MPI
+* STL Parallel
 
 ## Machine specs
 
