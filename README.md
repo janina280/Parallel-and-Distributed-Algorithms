@@ -21,6 +21,7 @@ Counting the frequency of words in a large text file can be parallelized by proc
 ## Framework
 
 * STL Parallel
+* MPI
 
 ## Machine specs
 
@@ -42,7 +43,7 @@ Counting the frequency of words in a large text file can be parallelized by proc
 
 -1M words: 13604 microseconds
 
-## Parallel execution times
+## Parallel execution times STL
 
 -10k words: 14950 microseconds
 
@@ -53,3 +54,17 @@ Counting the frequency of words in a large text file can be parallelized by proc
 -500k words: 30764 microseconds
 
 -1M words: 58858 microseconds
+
+## Parallel execution times MPI
+
+-10k words:  12638 microseconds
+
+-64k words:  12005 microseconds 
+
+-100k words:  9040 microseconds
+
+-500k words: 11242 microseconds
+
+-1M word: 13504 microseconds 
+
+
