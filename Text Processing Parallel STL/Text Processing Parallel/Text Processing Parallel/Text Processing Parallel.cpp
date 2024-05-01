@@ -27,7 +27,7 @@ void countWords(const std::string& filename, std::unordered_map<std::string, int
 int main() {
     auto start = std::chrono::high_resolution_clock::now();
 
-    const std::string inputFilename = "input_10k.txt";
+    const std::string inputFilename = "input_1M.txt";
     const std::string outputFilename = "output.txt";
 
     std::unordered_map<std::string, int> wordCount;
