@@ -12,7 +12,7 @@
 using namespace std;
 using namespace std::chrono;
 
-constexpr int max_words = 8000;
+constexpr int max_words = 1000000;
 constexpr int max_word_length = 50;
 
 ifstream fin(INPUT);
